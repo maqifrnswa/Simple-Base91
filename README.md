@@ -2,6 +2,16 @@
 C/C++ and Arduino compatible library for encoding &amp; decoding binary data
 to base91.
 
+## To install on Arduino
+
+1. Download the source code (choose "Download Zip" from the green "Code" button
+above).
+1. In Arduino go to "Sketch->Include Library->Add .ZIP Library..." and select
+the downloaded zip file.
+
+The library will now be able to be added using "Sketch->Include Library", and
+an example will be available in the "File->Examples" menu under "Simple-Base91"
+
 ## How to use
 
 See the example for an Arduino C/C++ example.
